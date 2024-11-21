@@ -18,4 +18,4 @@ def student_info(*arge, **kwargs):
      print(arge)
      print(kwargs)
 student_info('math','art',name="muneeb",age=22)
-print("hello world")
+print("hell")

@@ -14,8 +14,10 @@
 # def hello_func3(greetings,name="you"):
 #      return"{},{}".format(greetings,name)
 # print(hello_func3("hi",name="muneeb"))
-def student_info(*arge, **kwargs):
-     print(arge)
-     print(kwargs)
-student_info('math','art',name="muneeb",age=22)
-print("hell")
+# def student_info(*arge, **kwargs):
+#      print(arge)
+#      print(kwargs)
+# student_info('math','art',name="muneeb",age=22)
+
+
+
